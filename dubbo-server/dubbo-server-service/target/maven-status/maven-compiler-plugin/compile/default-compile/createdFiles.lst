@@ -1,1 +1,2 @@
-com\jtt\hhl\TestDubboServiceImpl.class
+com\jtt\hhl\service\TestDubboRestServiceImpl.class
+com\jtt\hhl\service\TestDubboServiceImpl.class

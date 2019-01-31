@@ -17,6 +17,12 @@
             <groupId>com.jtt.hhl</groupId>
             <artifactId>dubbo-server-api</artifactId>
             <version>1.0.0</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>resteasy-spring-boot-starter</artifactId>
+                    <groupId>org.jboss.resteasy</groupId>
+                </exclusion>
+            </exclusions>
         </dependency>
     </dependencies>
 

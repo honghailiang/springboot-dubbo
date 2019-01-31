@@ -12,5 +12,13 @@
     <groupId>com.jtt.hhl</groupId>
     <artifactId>dubbo-server-api</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.jtt.hhl</groupId>
+            <artifactId>dubbo-server-model</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
