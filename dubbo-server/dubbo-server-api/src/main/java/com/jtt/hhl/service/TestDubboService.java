@@ -1,7 +1,7 @@
 package com.jtt.hhl.service;
 
 /**
- * @Description: dubbo service接口
+ * @Description: META-INF.dubbo service接口
  * @Author: Herman
  * @CreateDate: 2019/1/5 10:48
  */
